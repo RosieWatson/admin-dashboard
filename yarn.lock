@@ -1910,7 +1910,7 @@ __metadata:
 
 "@emotion/styled@npm:^11.3.0, @emotion/styled@npm:^11.6.0":
   version: 11.6.0
-  resolution: "@emotion/styled@npm:11.6.0"
+  resolution: "@emotion/styled@npm:11.13.0"
   dependencies:
     "@babel/runtime": "npm:^7.13.10"
     "@emotion/babel-plugin": "npm:^11.3.0"
