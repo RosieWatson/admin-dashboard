@@ -1908,8 +1908,8 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@emotion/styled@npm:^11.3.0, @emotion/styled@npm:^11.6.0":
-  version: 11.6.0
+"@emotion/styled@npm:^11.3.0, @emotion/styled@npm:^11.13.0":
+  version: 11.13.0
   resolution: "@emotion/styled@npm:11.13.0"
   dependencies:
     "@babel/runtime": "npm:^7.13.10"
@@ -19836,7 +19836,7 @@ __metadata:
   resolution: "simple@workspace:examples/simple"
   dependencies:
     "@emotion/react": "npm:^11.7.1"
-    "@emotion/styled": "npm:^11.6.0"
+    "@emotion/styled": "npm:^11.13.0"
     "@hookform/devtools": "npm:^4.0.2"
     "@mui/icons-material": "npm:^5.15.20"
     "@mui/material": "npm:^5.15.20"
